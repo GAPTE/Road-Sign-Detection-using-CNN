@@ -31,3 +31,7 @@ training create backup folder on drive
 
 or if you have machine with darknet installed with gpu
 then you can test custom detector on video directly on your machine)
+
+
+
+

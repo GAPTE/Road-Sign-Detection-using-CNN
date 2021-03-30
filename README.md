@@ -14,6 +14,10 @@ Note:
 
 3.create train.txt,test.txt,data.data and classes.names file using the py files)
 
+4.before training download the weights required for training
+
+link-https://pjreddie.com/media/files/darknet53.conv.74
+
 4.train the dataset using darknet
 (clone the darknet repository on drive)
 note:

@@ -1,6 +1,6 @@
 # Road-Sign-Detection-using-CNN
 
-1.download GSTB dataset from following link:
+1.download GTSB dataset from following link:
 
 https://benchmark.ini.rub.de/gtsdb_dataset.html
 Note:
